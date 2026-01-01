@@ -1,0 +1,47 @@
+home: Trang chủ
+archives: Lưu trữ
+about: Liên hệ
+categories: Chủ đề
+search: Tìm kiếm
+tags: Từ khóa
+tagcloud: Tag Cloud
+tweets: Tweets
+prev: Lùi
+next: Tiến
+comment: Bình luận
+edit: Edit
+archive_a: Archives
+archive_b: "Archives: %s"
+page: Trang %d
+recent_posts: Bài viết mới
+newer: Mới hơn
+older: Cũ hơn
+share: Chia sẻ
+powered_by: Powered by
+rss_feed: RSS Feed
+category: Category
+tag: Tag
+connect: 'Connect'
+post_total_count: There are %d posts in total till now.
+right_reserved: "%s hold copyright"
+site_uv: 'UV'
+site_pv: 'PV'
+article_pv: 'PV:'
+read_more: Đọc thêm
+contents: Contents
+none: None
+donation:
+    button_text: 'Donate'
+insight:
+    hint: 'Type something...'
+    posts: 'Posts'
+    pages: 'Pages'
+    categories: 'Categories'
+    tags: 'Tags'
+    untitled: '(Untitled)'
+copyright:
+    author: "Post author: "
+    link: "Post link: "
+    license_title: "Copyright Notice: "
+    left_license_content: "All articles in this blog are licensed under "
+    right_license_content: "unless stating additionally."    
