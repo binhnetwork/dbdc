@@ -4,7 +4,7 @@ about: Liên hệ
 categories: Chủ đề
 search: Tìm kiếm
 tags: Từ khóa
-tagcloud: Tag Cloud
+tagcloud: Mây từ khóa
 tweets: Tweets
 prev: Lùi
 next: Tiến
@@ -22,7 +22,7 @@ rss_feed: RSS Feed
 category: Category
 tag: Tag
 connect: 'Connect'
-post_total_count: There are %d posts in total till now.
+post_total_count: Hiện tại đã có %d bài viết.
 right_reserved: "%s hold copyright"
 site_uv: 'UV'
 site_pv: 'PV'
@@ -45,3 +45,4 @@ copyright:
     license_title: "Copyright Notice: "
     left_license_content: "All articles in this blog are licensed under "
     right_license_content: "unless stating additionally."    
+
