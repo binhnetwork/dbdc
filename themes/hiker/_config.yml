@@ -78,8 +78,10 @@ social:
   #Github:
   #Weibo:
   #Twitter: 
-  Facebook: 
-  Youtube: 
+  facebook-official:
+  linkedin-square:
+  youtube-play:
+  weixin:
   #Instagram: 
   #Pinterest: 
   #Flickr: 
@@ -173,6 +175,7 @@ copyright:
 # If you put your blog on GitHub, it should look like:
 # https://github.com/username/blog/edit/master/source/_posts/
 post_edit_url: 
+
 
 
 
