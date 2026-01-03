@@ -1,27 +1,27 @@
 home: Trang chủ
-archives: Lưu trữ
-about: Liên hệ
+archives: Bài viết
+about: Về tôi
 categories: Chủ đề
 search: Tìm kiếm
 tags: Từ khóa
 tagcloud: Mây từ khóa
 tweets: Tweets
-prev: Lùi
-next: Tiến
+prev: <<<
+next: >>>
 comment: Bình luận
 edit: Edit
 archive_a: Archives
 archive_b: "Archives: %s"
 page: Trang %d
 recent_posts: Bài viết mới
-newer: Mới hơn
-older: Cũ hơn
+newer: Bài mới
+older: Bài cũ
 share: Chia sẻ
 powered_by: Powered by
 rss_feed: RSS Feed
 category: Category
 tag: Tag
-connect: 'Connect'
+connect: 'Kết nối với tôi'
 post_total_count: Hiện tại đã có %d bài viết.
 right_reserved: "%s hold copyright"
 site_uv: 'UV'
@@ -45,4 +45,5 @@ copyright:
     license_title: "Copyright Notice: "
     left_license_content: "All articles in this blog are licensed under "
     right_license_content: "unless stating additionally."    
+
 
