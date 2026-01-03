@@ -7,7 +7,7 @@ menu:
   Home: /
   Archives: archives
   Categories: categories
-  Tags: t
+  Tags: tags
   About: about
 rss: /atom.xml
 
@@ -175,6 +175,7 @@ copyright:
 # If you put your blog on GitHub, it should look like:
 # https://github.com/username/blog/edit/master/source/_posts/
 post_edit_url: 
+
 
 
 
