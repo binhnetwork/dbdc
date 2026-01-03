@@ -15,7 +15,7 @@ timezone: ''
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
 url: https://ducbinh.com/
 #permalink: :year/:month/:day/:title/
-permalink: :category/:title/
+permalink: :title/
 permalink_defaults:
 pretty_urls:
   trailing_index: true # Set to false to remove trailing 'index.html' from permalinks
@@ -106,6 +106,7 @@ deploy:
   repo: https://github.com/binhnetwork/binhnetwork.github.io
   # example, https://github.com/hexojs/hexojs.github.io
   branch: gh-pages
+
 
 
 
